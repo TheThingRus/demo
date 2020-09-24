@@ -12,11 +12,12 @@
 ![alt tag](/sourcers/services1.png "Services")​
 
 Остальные сервисы представляют собой классическое MVC Web API приложение. 
-Что бы добавил в сервисы:
-OpenTelemetry для распределённой трассировки,
-Autofac,
-Automapper,
-EF
+
+Также добавил бы в сервисы:
+* OpenTelemetry для распределённой трассировки,
+* Autofac
+* Automapper
+* EF
 
 Можно было бы ещё добавить Discovery Serivece (оопционально).
 
