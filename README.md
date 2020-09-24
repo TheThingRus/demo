@@ -9,4 +9,4 @@
 
 Сами сервисы представляют собой отдельные модули обработки заказа. В качестве шаблона использовал бы [Orchestration-based saga](https://microservices.io/patterns/data/saga.html). Для её реализации использовал бы MassTransit. На схеме ниже OrderProcessor представлен в качестве StateMachine.
 
-![alt tag](/sourcers/services.png "Services")​
+![alt tag](/sourcers/services1.png "Services")​
