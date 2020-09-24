@@ -14,8 +14,8 @@
 Остальные сервисы представляют собой классическое MVC Web API приложение. 
 Что бы добавил в сервисы:
 OpenTelemetry для распределённой трассировки,
-Autofac - IoC
-Automapper
+Autofac,
+Automapper,
 EF
 
 Можно было бы ещё добавить Discovery Serivece (оопционально).
